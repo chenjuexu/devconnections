@@ -34,6 +34,7 @@ _Due to demo reasons and heroku free terms, if an app receives no web traffic in
 > - React Hooks
 > - Redux with HOCs
 > - React router
+> > - Redux & Redux Thunk
 >
 > ### BackEnd
 >
