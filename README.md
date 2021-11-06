@@ -4,7 +4,7 @@
 
 # Description
 
-This is a MERN stack application, a small social network app that includes authentication, profiles and forum posts. Authenticated users can make posts, comment posts, like posts; edit their experience, education etc
+This is a MERN&Redux stack application, a small social network app that includes authentication, profiles and forum posts. Authenticated users can make posts, comment posts, like posts; edit their experience, education etc
 
 <p align="center">
   <img src="./assets/DC1.jpg" width="49%" />
